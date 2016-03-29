@@ -1,2 +1,4 @@
 --color
 --require spec_helper
+--format LEDTestFormatter::RSpec --format p
+--order random

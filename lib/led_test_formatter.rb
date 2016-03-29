@@ -1,5 +1,6 @@
 require "led_test_formatter/version"
+require "led_test_formatter/status"
+require "led_test_formatter/hyperion"
 
-module LedTestFormatter
-  # Your code goes here...
+module LEDTestFormatter
 end
