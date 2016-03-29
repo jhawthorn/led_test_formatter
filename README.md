@@ -1,7 +1,7 @@
 # LedTestFormatter
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=U_W_cNbG-ek" target="_blank">
-<img src="http://img.youtube.com/vi/U_W_cNbG-ek/0.jpg" alt="ZOMG LEDS" width="240" height="180" border="10" />
+<img src="http://img.youtube.com/vi/U_W_cNbG-ek/0.jpg" alt="ZOMG LEDS" width="640" height="480" border="10" />
 </a>
 
 ## Installation
