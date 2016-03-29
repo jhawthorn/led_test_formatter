@@ -12,6 +12,13 @@ Add this line to your application's Gemfile:
 gem 'led_test_formatter'
 ```
 
+Add to your `spec/spec_helper.rb`:
+
+```ruby
+require 'led_test_formatter/rspec'
+```
+
+
 And then run your tests as:
 
     $ NUM_LEDS=37 bundle exec rspec --format LEDTestFormatter::RSpec --format progress
