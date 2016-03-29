@@ -10,7 +10,7 @@ module LEDTestFormatter
 
     attr_reader :num_leds
     def initialize
-      @num_leds = 37
+      @num_leds = ENV['NUM_LEDS']
     end
 
     def report(status)

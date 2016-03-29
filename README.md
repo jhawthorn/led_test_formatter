@@ -14,7 +14,7 @@ gem 'led_test_formatter'
 
 And then run your tests as:
 
-    $ bundle exec rspec --format LEDTestFormatter::RSpec --format progress
+    $ NUM_LEDS=37 bundle exec rspec --format LEDTestFormatter::RSpec --format progress
 
 ## Usage
 
